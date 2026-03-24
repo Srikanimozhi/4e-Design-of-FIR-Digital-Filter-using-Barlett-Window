@@ -1,4 +1,4 @@
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cdf6e30f-b46b-49b2-9fa6-f6f44ce4d5e4" /># FIR-FILTER-DESIGN
+ FIR-FILTER-DESIGN
 # EXP 4e: Design-of-FIR-Digital-Filter-using-Barlett-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Barlett-Window using SCILAB.
@@ -147,9 +147,10 @@ title('Frequency Response of FIR BPF using Bartlett Window');
 ```
 
 # OUTPUT: 
-
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cdf6e30f-b46b-49b2-9fa6-f6f44ce4d5e4" />#
 <img width="757" height="721" alt="image" src="https://github.com/user-attachments/assets/ea586119-93b4-441c-ab52-d28136e64039" />
 <img width="528" height="456" alt="image" src="https://github.com/user-attachments/assets/7184690e-bd9b-4e16-98c4-74365eb4c33d" />
+
 
 
 # RESULT: 
